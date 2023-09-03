@@ -1,7 +1,7 @@
-## Who am I ?
+## Who am I?
 I am a Final-year student at Bangladesh University of Business and Technology (BUBT). Currently doing my Bachelor's in Computer Engineering.
-I am a Python programmer With a strong background in computer science and years of experience in Python development, I have honed my skills in front-end and back-end development. As a Python programmer, I am well-versed in popular frameworks such as Django which enable 
-me to create secure web applications. I am skilled in database management using SQL and proficient in front-end technologies like HTML, CSS, and JavaScript.
+As a Python programmer, With a strong background in computer science and years of experience in Python development, I have honed my skills in front-end and back-end development. I am well-versed in popular frameworks such as Django which enable 
+me to create secure web applications and skilled in database management using SQL and proficient in front-end technologies like HTML, CSS, and JavaScript.
 
 <!--
 **Sajid1406/Sajid1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
