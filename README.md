@@ -1,6 +1,6 @@
 ## Who am I ?
-I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+I am a Final-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
+I am an open-source Contributor and django python developer.
 
 <!--
 **Sajid1406/Sajid1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
