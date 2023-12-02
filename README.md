@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Social Links:
-[![LinkedIn]([https://linkedin.com/in/https://www.linkedin.com/in/Sajid1406/](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)) 
+[![LinkedIn]([[https://linkedin.com/in/https://www.linkedin.com/in/Sajid1406/](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)) 
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Sajid1406/count.svg)
