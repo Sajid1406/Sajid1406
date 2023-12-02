@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌐 Social Links:
+[![LinkedIn]([https://linkedin.com/in/https://www.linkedin.com/in/Sajid1406/](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)) 
+
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Sajid1406/count.svg)
 
@@ -36,14 +40,5 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
- <div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Sajid1406&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
- 
-<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Sajid1406/) 
  
