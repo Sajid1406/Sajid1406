@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌐 Social Links:
+[![LinkedIn](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)
+
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Sajid1406/count.svg)
 
@@ -33,9 +37,6 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sajid1406&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Social Links:
-[![LinkedIn](https://www.linkedin.com/in/md-shafiul-alam-56b7b529a/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
